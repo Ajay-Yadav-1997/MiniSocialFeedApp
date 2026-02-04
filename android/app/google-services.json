@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556101247710",
+    "project_id": "minisocialfeedapp",
+    "storage_bucket": "minisocialfeedapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556101247710:android:1a19949fba44bc3588584f",
+        "android_client_info": {
+          "package_name": "com.example.minisocialfeedapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4wrI3Fb6_krNljRPydwYGY1Eg35q6mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
